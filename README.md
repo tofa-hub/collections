@@ -6,8 +6,8 @@ Curated JSON collections and watch-order lists for **[tofa](https://tofa.tv)** m
 
 | Collection | Type | Description | Raw URL (for tofa import) |
 | :--- | :--- | :--- | :--- |
-| **Disney Classics: Complete 62** | Movies | All 62 Disney Classics (1937–2024) in chronological order. | `https://githubusercontent.com` |
-| **Yellowstone Universe** | Shows | Taylor Sheridan's Yellowstone & Western Universe in timeline order. | `https://githubusercontent.com` |
+| **Disney Classics: Complete 62** | Movies | All 62 Disney Classics (1937–2024) in chronological order. | `[https://githubusercontent.com](https://raw.githubusercontent.com/tofa-lists/collections/refs/heads/main/disney-classics-62.json)` |
+| **Yellowstone Universe** | Shows | Taylor Sheridan's Yellowstone & Western Universe in timeline order. | `[https://githubusercontent.com](https://raw.githubusercontent.com/tofa-lists/collections/refs/heads/main/yellowstone-universe.json)` |
 
 ---
 
