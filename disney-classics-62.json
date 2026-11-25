@@ -4,67 +4,315 @@
   "description": "All 62 Disney Classics from the Complete 62 Movie Collection (1937–2024) in chronological order.",
   "sort": "list",
   "items": [
-    { "imdb_id": "tt0029583", "type": "movie", "order": 1 },
-    { "imdb_id": "tt0032910", "type": "movie", "order": 2 },
-    { "imdb_id": "tt0032455", "type": "movie", "order": 3 },
-    { "imdb_id": "tt0033563", "type": "movie", "order": 4 },
-    { "imdb_id": "tt0034492", "type": "movie", "order": 5 },
-    { "imdb_id": "tt0036326", "type": "movie", "order": 6 },
-    { "imdb_id": "tt0038166", "type": "movie", "order": 7 },
-    { "imdb_id": "tt0038718", "type": "movie", "order": 8 },
-    { "imdb_id": "tt0039404", "type": "movie", "order": 9 },
-    { "imdb_id": "tt0040580", "type": "movie", "order": 10 },
-    { "imdb_id": "tt0041094", "type": "movie", "order": 11 },
-    { "imdb_id": "tt0042332", "type": "movie", "order": 12 },
-    { "imdb_id": "tt0043274", "type": "movie", "order": 13 },
-    { "imdb_id": "tt0046183", "type": "movie", "order": 14 },
-    { "imdb_id": "tt0048280", "type": "movie", "order": 15 },
-    { "imdb_id": "tt0053285", "type": "movie", "order": 16 },
-    { "imdb_id": "tt0055254", "type": "movie", "order": 17 },
-    { "imdb_id": "tt0057546", "type": "movie", "order": 18 },
-    { "imdb_id": "tt0061852", "type": "movie", "order": 19 },
-    { "imdb_id": "tt0065421", "type": "movie", "order": 20 },
-    { "imdb_id": "tt0070608", "type": "movie", "order": 21 },
-    { "imdb_id": "tt0076363", "type": "movie", "order": 22 },
-    { "imdb_id": "tt0076618", "type": "movie", "order": 23 },
-    { "imdb_id": "tt0082406", "type": "movie", "order": 24 },
-    { "imdb_id": "tt0088814", "type": "movie", "order": 25 },
-    { "imdb_id": "tt0091149", "type": "movie", "order": 26 },
-    { "imdb_id": "tt0095776", "type": "movie", "order": 27 },
-    { "imdb_id": "tt0097757", "type": "movie", "order": 28 },
-    { "imdb_id": "tt0100477", "type": "movie", "order": 29 },
-    { "imdb_id": "tt0101414", "type": "movie", "order": 30 },
-    { "imdb_id": "tt0103639", "type": "movie", "order": 31 },
-    { "imdb_id": "tt0110357", "type": "movie", "order": 32 },
-    { "imdb_id": "tt0114148", "type": "movie", "order": 33 },
-    { "imdb_id": "tt0116583", "type": "movie", "order": 34 },
-    { "imdb_id": "tt0119282", "type": "movie", "order": 35 },
-    { "imdb_id": "tt0120762", "type": "movie", "order": 36 },
-    { "imdb_id": "tt0120855", "type": "movie", "order": 37 },
-    { "imdb_id": "tt0120910", "type": "movie", "order": 38 },
-    { "imdb_id": "tt0120917", "type": "movie", "order": 39 },
-    { "imdb_id": "tt0230011", "type": "movie", "order": 40 },
-    { "imdb_id": "tt0275847", "type": "movie", "order": 41 },
-    { "imdb_id": "tt0133240", "type": "movie", "order": 42 },
-    { "imdb_id": "tt0328880", "type": "movie", "order": 43 },
-    { "imdb_id": "tt0299172", "type": "movie", "order": 44 },
-    { "imdb_id": "tt0371606", "type": "movie", "order": 45 },
-    { "imdb_id": "tt0405469", "type": "movie", "order": 46 },
-    { "imdb_id": "tt0396555", "type": "movie", "order": 47 },
-    { "imdb_id": "tt0397892", "type": "movie", "order": 48 },
-    { "imdb_id": "tt0780521", "type": "movie", "order": 49 },
-    { "imdb_id": "tt0398286", "type": "movie", "order": 50 },
-    { "imdb_id": "tt1772341", "type": "movie", "order": 51 },
-    { "imdb_id": "tt2294629", "type": "movie", "order": 52 },
-    { "imdb_id": "tt2245084", "type": "movie", "order": 53 },
-    { "imdb_id": "tt2948356", "type": "movie", "order": 54 },
-    { "imdb_id": "tt3521164", "type": "movie", "order": 55 },
-    { "imdb_id": "tt5848272", "type": "movie", "order": 56 },
-    { "imdb_id": "tt4520988", "type": "movie", "order": 57 },
-    { "imdb_id": "tt5109280", "type": "movie", "order": 58 },
-    { "imdb_id": "tt2953050", "type": "movie", "order": 59 },
-    { "imdb_id": "tt10298840", "type": "movie", "order": 60 },
-    { "imdb_id": "tt11304740", "type": "movie", "order": 61 },
-    { "imdb_id": "tt13622970", "type": "movie", "order": 62 }
+    {
+      "imdb_id": "tt0029583",
+      "type": "movie",
+      "order": 1
+    },
+    {
+      "imdb_id": "tt0032910",
+      "type": "movie",
+      "order": 2
+    },
+    {
+      "imdb_id": "tt0032455",
+      "type": "movie",
+      "order": 3
+    },
+    {
+      "imdb_id": "tt0033563",
+      "type": "movie",
+      "order": 4
+    },
+    {
+      "imdb_id": "tt0034492",
+      "type": "movie",
+      "order": 5
+    },
+    {
+      "imdb_id": "tt0036326",
+      "type": "movie",
+      "order": 6
+    },
+    {
+      "imdb_id": "tt0038166",
+      "type": "movie",
+      "order": 7
+    },
+    {
+      "imdb_id": "tt0038718",
+      "type": "movie",
+      "order": 8
+    },
+    {
+      "imdb_id": "tt0039404",
+      "type": "movie",
+      "order": 9
+    },
+    {
+      "imdb_id": "tt0040580",
+      "type": "movie",
+      "order": 10
+    },
+    {
+      "imdb_id": "tt0041094",
+      "type": "movie",
+      "order": 11
+    },
+    {
+      "imdb_id": "tt0042332",
+      "type": "movie",
+      "order": 12
+    },
+    {
+      "imdb_id": "tt0043274",
+      "type": "movie",
+      "order": 13
+    },
+    {
+      "imdb_id": "tt0046183",
+      "type": "movie",
+      "order": 14
+    },
+    {
+      "imdb_id": "tt0048280",
+      "type": "movie",
+      "order": 15
+    },
+    {
+      "imdb_id": "tt0053285",
+      "type": "movie",
+      "order": 16
+    },
+    {
+      "imdb_id": "tt0055254",
+      "type": "movie",
+      "order": 17
+    },
+    {
+      "imdb_id": "tt0057546",
+      "type": "movie",
+      "order": 18
+    },
+    {
+      "imdb_id": "tt0061852",
+      "type": "movie",
+      "order": 19
+    },
+    {
+      "imdb_id": "tt0065421",
+      "type": "movie",
+      "order": 20
+    },
+    {
+      "imdb_id": "tt0070608",
+      "type": "movie",
+      "order": 21
+    },
+    {
+      "imdb_id": "tt0076363",
+      "type": "movie",
+      "order": 22
+    },
+    {
+      "imdb_id": "tt0076618",
+      "type": "movie",
+      "order": 23
+    },
+    {
+      "imdb_id": "tt0082406",
+      "type": "movie",
+      "order": 24
+    },
+    {
+      "imdb_id": "tt0088814",
+      "type": "movie",
+      "order": 25
+    },
+    {
+      "imdb_id": "tt0091149",
+      "type": "movie",
+      "order": 26
+    },
+    {
+      "imdb_id": "tt0095776",
+      "type": "movie",
+      "order": 27
+    },
+    {
+      "imdb_id": "tt0097757",
+      "type": "movie",
+      "order": 28
+    },
+    {
+      "imdb_id": "tt0100477",
+      "type": "movie",
+      "order": 29
+    },
+    {
+      "imdb_id": "tt0101414",
+      "type": "movie",
+      "order": 30
+    },
+    {
+      "imdb_id": "tt0103639",
+      "type": "movie",
+      "order": 31
+    },
+    {
+      "imdb_id": "tt0110357",
+      "type": "movie",
+      "order": 32
+    },
+    {
+      "imdb_id": "tt0114148",
+      "type": "movie",
+      "order": 33
+    },
+    {
+      "imdb_id": "tt0116583",
+      "type": "movie",
+      "order": 34
+    },
+    {
+      "imdb_id": "tt0119282",
+      "type": "movie",
+      "order": 35
+    },
+    {
+      "imdb_id": "tt0120762",
+      "type": "movie",
+      "order": 36
+    },
+    {
+      "imdb_id": "tt0120855",
+      "type": "movie",
+      "order": 37
+    },
+    {
+      "imdb_id": "tt0120910",
+      "type": "movie",
+      "order": 38
+    },
+    {
+      "imdb_id": "tt0120917",
+      "type": "movie",
+      "order": 39
+    },
+    {
+      "imdb_id": "tt0230011",
+      "type": "movie",
+      "order": 40
+    },
+    {
+      "imdb_id": "tt0275847",
+      "type": "movie",
+      "order": 41
+    },
+    {
+      "imdb_id": "tt0133240",
+      "type": "movie",
+      "order": 42
+    },
+    {
+      "imdb_id": "tt0328880",
+      "type": "movie",
+      "order": 43
+    },
+    {
+      "imdb_id": "tt0299172",
+      "type": "movie",
+      "order": 44
+    },
+    {
+      "imdb_id": "tt0371606",
+      "type": "movie",
+      "order": 45
+    },
+    {
+      "imdb_id": "tt0405469",
+      "type": "movie",
+      "order": 46
+    },
+    {
+      "imdb_id": "tt0396555",
+      "type": "movie",
+      "order": 47
+    },
+    {
+      "imdb_id": "tt0397892",
+      "type": "movie",
+      "order": 48
+    },
+    {
+      "imdb_id": "tt0780521",
+      "type": "movie",
+      "order": 49
+    },
+    {
+      "imdb_id": "tt0398286",
+      "type": "movie",
+      "order": 50
+    },
+    {
+      "imdb_id": "tt1772341",
+      "type": "movie",
+      "order": 51
+    },
+    {
+      "imdb_id": "tt2294629",
+      "type": "movie",
+      "order": 52
+    },
+    {
+      "imdb_id": "tt2245084",
+      "type": "movie",
+      "order": 53
+    },
+    {
+      "imdb_id": "tt2948356",
+      "type": "movie",
+      "order": 54
+    },
+    {
+      "imdb_id": "tt3521164",
+      "type": "movie",
+      "order": 55
+    },
+    {
+      "imdb_id": "tt5848272",
+      "type": "movie",
+      "order": 56
+    },
+    {
+      "imdb_id": "tt4520988",
+      "type": "movie",
+      "order": 57
+    },
+    {
+      "imdb_id": "tt5109280",
+      "type": "movie",
+      "order": 58
+    },
+    {
+      "imdb_id": "tt2953050",
+      "type": "movie",
+      "order": 59
+    },
+    {
+      "imdb_id": "tt10298840",
+      "type": "movie",
+      "order": 60
+    },
+    {
+      "imdb_id": "tt11304740",
+      "type": "movie",
+      "order": 61
+    },
+    {
+      "imdb_id": "tt13622970",
+      "type": "movie",
+      "order": 62
+    }
   ]
 }
