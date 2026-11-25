@@ -1,0 +1,15 @@
+{
+  "tofa_list": 1,
+  "name": "Yellowstone Universe",
+  "description": "All series in Taylor Sheridan's Yellowstone & Western Universe in chronological timeline order.",
+  "sort": "list",
+  "items": [
+    { "imdb_id": "tt15399640", "type": "show", "order": 1},
+    { "imdb_id": "tt13991232", "type": "show", "order": 2},
+    { "imdb_id": "tt18335752", "type": "show", "order": 3},
+    { "imdb_id": "tt4236770",  "type": "show", "order": 4},
+    { "imdb_id": "tt36849871", "type": "show", "order": 5},
+    { "imdb_id": "tt34991493", "type": "show", "order": 6},
+    { "imdb_id": "tt33204276", "type": "show", "order": 7}
+  ]
+}
