@@ -1,4 +1,4 @@
-# tofa-lists 🎬
+# tofa-hub 🎬
 
 Curated JSON collections and watch-order lists for **[tofa](https://tofa.tv)** media servers.
 
