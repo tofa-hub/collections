@@ -1,0 +1,18 @@
+{
+  "tofa_list": 1,
+  "name": "The Terminal List Universe",
+  "description": "Jack Carr's Terminal List universe in chronological timeline order.",
+  "sort": "list",
+  "items": [
+    {
+      "imdb_id": "tt26576161",
+      "type": "show",
+      "order": 1
+    },
+    {
+      "imdb_id": "tt11743610",
+      "type": "show",
+      "order": 2
+    }
+  ]
+}
